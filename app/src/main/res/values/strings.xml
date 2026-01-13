@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">QuoteVault</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="browse">Browse</string>
+    <string name="favorites">Favorites</string>
+    <string name="collections">Collections</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home / Browse -->
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="search_quotes">Search quotes...</string>
+    <string name="search_by_author">Search by author...</string>
+    <string name="all">All</string>
+    <string name="no_quotes_found">No quotes found</string>
+
+    <!-- Collections -->
+    <string name="create_collection">Create Collection</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="collection_description">Description (optional)</string>
+    <string name="add_to_collection">Add to Collection</string>
+    <string name="remove_from_collection">Remove from Collection</string>
+
+    <!-- Share -->
+    <string name="share_quote">Share Quote</string>
+    <string name="save_as_image">Save as Image</string>
+    <string name="choose_style">Choose Style</string>
+
+    <!-- Settings -->
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="font_size">Font Size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="notifications">Notifications</string>
+    <string name="daily_quote_notification">Daily Quote Notification</string>
+    <string name="notification_time">Notification Time</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- States -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="try_again">Try Again</string>
+    <string name="success">Success</string>
+</resources>

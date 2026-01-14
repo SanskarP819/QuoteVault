@@ -101,6 +101,11 @@ A modern Android application for discovering, collecting, and sharing inspiratio
 
 ---
 
+## 🎥 Demo Video
+
+**[Watch Demo on Loom](https://www.loom.com/share/e09a251b232044128270d97bc992077c)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -629,9 +634,6 @@ io.coil-kt:coil-compose:2.5.0
 
 ---
 
-## 🎥 Demo Video
-
-**[Watch Demo on Loom](your-loom-link-here)**
 
 
 
